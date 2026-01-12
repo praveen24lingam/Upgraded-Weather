@@ -6,7 +6,7 @@ A beautiful, anime-themed single-page weather application that displays real-tim
 
 ## 🚀 Live Demo
 
-[View Live Application](#) <!-- Add your deployment URL here -->
+[[View Live Application](https://upgraded-weather.vercel.app/)](#) <!-- Add your deployment URL here -->
 
 ## 📸 Screenshots
 
